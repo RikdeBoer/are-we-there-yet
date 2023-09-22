@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana, sans-serif;
+  padding: 0 2rem;
+}
+h1 {
+  margin-bottom: 0.25rem;
+}
+dt {
+  font-weight: bold;
+  margin-top: 1rem;
+}
+button {
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  margin: 1.5rem 2rem 1rem 0;
+  padding: 0.5rem 1rem;
+}
+
