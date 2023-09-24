@@ -7,8 +7,8 @@ Originally designed to demonstrate how you can easily create a website powered b
 GrpahQL database and not write any backend code. 
 
 See this article on https://medium.com for more background and a step-by-step guide: 
-_"Productivity gains with GraphQL, auto-generated resolvers and APIs - Using AWS 
-AppSync + AWS Amplify as an example"_
+["Productivity gains with GraphQL, auto-generated resolvers and APIs - Using AWS 
+AppSync + AWS Amplify as an example"](https://rikdeboer.medium.com/productivity-gains-with-graphql-auto-generated-resolvers-and-apis-6adb07287a7e)
 
 This repository adds two files, App.tsx and App.css to a standard React
 bootstrap environment.
